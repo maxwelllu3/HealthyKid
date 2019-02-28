@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=HealthyWorld
+comment0.text=\n\ HealthyWorld\n\ \n\ \n\ @author\ (maxwelllu3)\ \n\ @version\ (V1.0)\n\ \n\ Art\ assets\ citations\n\ \=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\n\ \n\ Background\n\ http\://clipart-library.com/clipart/kcMKrBBXi.htm\n\ \n\ Kid\:\n\ http\://www.iconarchive.com/show/people-icons-by-martin-berube/child-icon.html\n\ \n\ Mostly\ unhealthy\ foods\:\n\ http\://www.iconarchive.com/show/food-icons-by-martin-berube.html\n\ http\://www.iconarchive.com/show/food-icons-by-martin-berube/pop-corn-icon.html\n\ http\://www.iconarchive.com/show/swarm-icons-by-sonya/Pizza-icon.html\n\ http\://www.iconarchive.com/show/tasty-bites-icons-by-pixelkit.html\n\ \n\ Mostly\ healthy\ foods\:\n\ http\://www.iconarchive.com/show/vegetables-icons-by-fengsj.html\n\ \n
+comment1.params=
+comment1.target=HealthyWorld()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ HealthyWorld.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Create\ new\ floating\ objects\ at\ irregular\ intervals.\n
+comment3.params=points
+comment3.target=void\ addHealthLevel(int)
+comment3.text=\n\ Add\ some\ points\ to\ our\ current\ score.\ (May\ be\ negative.)\n\ If\ the\ score\ falls\ below\ 0,\ game's\ up.\n
+comment4.params=
+comment4.target=void\ showHealthLevel()
+comment4.text=\n\ Show\ our\ current\ score\ on\ screen.\n
+comment5.params=
+comment5.target=void\ countTime()
+comment5.text=\n\ Count\ down\ the\ game\ time\ and\ display\ it.\ Stop\ the\ game\ \n\ with\ a\ winning\ message\ when\ time\ is\ up.\n
+comment6.params=
+comment6.target=void\ showTime()
+comment6.text=\n\ Show\ the\ remaining\ game\ time\ on\ screen.\n
+comment7.params=
+comment7.target=void\ showEndMessage()
+comment7.text=\n\ Show\ the\ end-of-game\ message\ on\ screen.\n
+numComments=8
